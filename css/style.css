@@ -30,7 +30,7 @@ body {
 }
 
 .layout__img {
-    padding: 1.6rem 1.6rem 1.6rem 1.6rem;
+    padding: 1.6rem 1.6rem 2.4rem 1.6rem;
 }
 
 .img__qrcode {
@@ -42,7 +42,7 @@ body {
 .layout__qrtext {
     width: 28.7rem;
     height: 13.1rem;
-    padding: .5rem 1.6rem 0 1.6rem;
+    padding: 0 1.6rem 0 1.6rem;
     text-align: center;
     display: flex;
     flex-direction: column;
